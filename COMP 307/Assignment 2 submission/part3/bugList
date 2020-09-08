@@ -1,0 +1,1 @@
+always run with "log4j:ERROR setFile(null,true) call failed."

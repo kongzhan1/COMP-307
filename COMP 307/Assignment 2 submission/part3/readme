@@ -1,0 +1,3 @@
+run in intellij(work in intellij) or eclipse(may be).
+with log4j jar , jgap jar and apache-commons-lang jar.
+Maybe need to reset file path in Main.
